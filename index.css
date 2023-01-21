@@ -1,0 +1,40 @@
+img.bg {
+    min-height: 100%;
+    min-width: 1024px;
+    width: 100%;
+    height: auto;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-repeat: no-repeat; }
+
+  .overlay{
+position: absolute;
+  top: 60%;
+  right: 50%;
+  transform: translate(-50%, -50%);
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center;
+  font-family: 'News Cycle', sans-serif;
+  }
+  .overlay2{
+    position: absolute;
+      top: 65%;
+      right: 65%;
+      font-size: 15px;
+      transform: translate(-50%, -50%);
+      font-family: 'News Cycle', sans-serif;
+      }
+a:visited{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    color: grey;
+    text-decoration: none;
+}
+a:link{
+  color: black;
+    text-decoration: none;
+}
