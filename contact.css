@@ -35,10 +35,12 @@ a:link{ color: whitesmoke; text-decoration: none;}
         display: flex;
         justify-content: center;
         text-align: center;
+        margin: auto;
         background-color: rgb(56, 56, 94);
         color: black;
         font-size: 20px;
         width: 700px;
+        padding: 10px;
         text-decoration: none;
         font-family: 'News Cycle', sans-serif;
     }
