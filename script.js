@@ -107,3 +107,7 @@ const sum2 = (a, b) => {
 const sum3 = (a, b) => a+b;
 sum1(5, 10);
 sum2(25, 10);
+
+//git clone ssg
+// cd mene repositoryyn (main)
+// code . 
